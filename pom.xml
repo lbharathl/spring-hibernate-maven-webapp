@@ -3,10 +3,10 @@
 	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.websystique.springmvc</groupId>
+	<groupId>com.bharath.springmvc</groupId>
 	<artifactId>SpringHibernateExample</artifactId>
 	<packaging>war</packaging>
-	<version>0.1.2</version>
+	<version>0.0.1</version>
 	<name>SpringHibernateExample</name>
 
 	<properties>
@@ -154,7 +154,7 @@
 	<distributionManagement>
         <repository>
             <id>releases</id>
-            <url>http://35.200.206.178:8081/nexus/content/repositories/releases/</url>
+            <url>http://35.200.197.149:8081/nexus/content/repositories/releases/</url>
         </repository>
     	</distributionManagement>
 </project>
